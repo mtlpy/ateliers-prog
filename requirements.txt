@@ -5,6 +5,7 @@ beautifulsoup4
 feedparser
 
 jupyterlab
+jupyterlab-spellchecker
 nbdime
 
 
