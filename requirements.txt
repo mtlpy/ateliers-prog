@@ -1,0 +1,11 @@
+
+pandas
+requests
+beautifulsoup4
+feedparser
+
+jupyterlab
+nbdime
+
+
+
