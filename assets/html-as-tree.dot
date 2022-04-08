@@ -1,0 +1,12 @@
+digraph{
+    html -> head;
+    html -> body;
+    head -> title;
+    title -> texte_1;
+    body -> h1;
+    h1 -> texte_2;
+    body -> p1;
+    p1 -> texte_3;
+    body -> p2;
+    p2 -> texte_4;
+}
