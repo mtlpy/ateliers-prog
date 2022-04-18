@@ -16,9 +16,9 @@ ainsi que de vous donner des exemple concrets de projet d'analyse de données.
 Tous les fichiers notebook se trouvent dans le sous-répertoire [`notebooks/`](./notebooks/).
 
 
-### Qu'est c'est ça un notebook?
+### Quessé ça un notebook?
 
-Le notebooks jupyter sont une façon de rouler du code Python de façon interactive.
+Les notebooks jupyter sont une façon de rouler du code Python de façon interactive.
 Dans un notebook, nous écrivons notre code dans des cellules avant de demander à
 l'ordinateur d'exécuter les instructions, c'est-à-dire de faire les actions décrites
 dans le code. Pour exécuter le code d'une cellule, il faut placer son curseur sur
