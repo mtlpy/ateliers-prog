@@ -3,8 +3,10 @@ repo_url: https://github.com/mtlpy/ateliers-prog
 notebooks:
 - file_id: 14ilsxFB4AvYPVrYgH7IDRsbnAFxkc-B0
   file_name: Agregateur-Web.ipynb
-- file_id: 1hfrCFTV0lQB5EcSwoIzOoKcDTEpeiXMr
+- file_id: 1_rrwT7Qog86VmO9eT6h8gXEZVk8MAojm
   file_name: Agregateur-Web_solution.ipynb
+- file_id: 1hfrCFTV0lQB5EcSwoIzOoKcDTEpeiXMr
+  file_name: Agregateur-Web_solution_alt.ipynb
 - file_id: 1wUzCH3XIBpu3BweayXprLFDy2kqOJmU3
   file_name: Base-1.ipynb
 - file_id: 1rk9wf1jJ4S5dTqz2s8FVcs30lVxYQ8bU
