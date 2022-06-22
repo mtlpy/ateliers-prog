@@ -18,10 +18,12 @@ from django.contrib import admin
 
 from monsite.views import hello
 from monsite.views import homepage
+from monsite.views import books
 
 
 urlpatterns = [
     url(r'^$', homepage),
     url(r'^hello/$', hello),
+    url(r'^books/$', books),
     url(r'^admin/', admin.site.urls),
 ]
