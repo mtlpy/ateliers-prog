@@ -11,3 +11,17 @@ def hello(request):
     else:
         msg = "Salut Montréal!"
     return HttpResponse(msg)
+
+
+
+from django.template.loader import get_template
+
+def homepage(request):
+    template = get_template("homepage.html")
+    context = {
+        "title": "La liste de livres de ...",
+        "pitch": "Les meilleurs livres sur Pyhon",
+    }
+    html = template.render(context)
+    return HttpResponse(html)
+
