@@ -25,3 +25,13 @@ def homepage(request):
     html = template.render(context)
     return HttpResponse(html)
 
+
+from monsite.models import Book
+
+
+def books(request):
+    books = Book.objects.all()  # get all books from the DB
+    template = get_template("books.html")
+    context = {"books": books}
+    html = template.render(context)
+    return HttpResponse(html)
