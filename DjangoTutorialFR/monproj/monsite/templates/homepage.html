@@ -3,7 +3,7 @@
 
   <head>
     <meta charset="utf-8">
-    <title>{{nomcompagnie}}</title>
+    <title>{{title}}</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css">
     <style>
         body {
@@ -16,9 +16,14 @@
     <main class="container">
 
       <div>
-        <h1>{{nomcompagnie}}</h1>
+        <h1>{{title}}</h1>
         <p class="lead">
-            {{pitch|default_if_none:"Notre compagnie utilise Python et Django, donc vous vous savez que ça va clencher !"}}
+            {{pitch|default_if_none:"Recommandations de livres sur Python."}}
+        </p>
+      </div>
+      <div>
+        <p>
+            Cliquez <a href="/books/">ici</a> pour voir la liste des livres.
         </p>
       </div>
 
