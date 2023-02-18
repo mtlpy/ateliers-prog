@@ -3,7 +3,7 @@
 
   <head>
     <meta charset="utf-8">
-    <title>{{title}}</title>
+    <title>{{book.title}} par {{book.author}}</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css">
     <style>
         body {
@@ -13,20 +13,21 @@
   </head>
 
   <body>
+
     <main class="container">
 
       <div>
-        <h1>{{title}}</h1>
-        <p class="lead">
-            {{pitch|default_if_none:"Recommandations de livres sur Python."}}
-        </p>
-      </div>
-      <div>
-        <p>
-            Cliquez <a href="/books/">ici</a> pour voir la liste de {{count}} livres.
-        </p>
+          <h2>{{book.title}}</h2>
+          <h5>par {{book.author}}</h5>
+          <p>
+              {{book.description}}
+          </p>
       </div>
 
+      <footer>
+          Retour vers la <a href="/books/">liste des livres</a>.
+      </footer>
+    
     </main>
   </body>
 

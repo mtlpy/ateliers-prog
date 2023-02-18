@@ -6,6 +6,6 @@ from .models import Book
 
 
 class BookAdmin(admin.ModelAdmin):
-    pass
+    list_display = ["id", "title", "author"]
 
 admin.site.register(Book, BookAdmin)
