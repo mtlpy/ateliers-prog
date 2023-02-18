@@ -25,7 +25,7 @@ SECRET_KEY = '-6r4s0uonx9!op-%1l-sa_ih)@0)h77$zx#a47v*5)s5-3itkm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["monsite.ink"]
 
 
 # Application definition

@@ -20,11 +20,13 @@ from django.urls import path
 from monsite.views import hello
 from monsite.views import homepage
 from monsite.views import books
+from monsite.views import bookdetails
 
 
 urlpatterns = [
     path('', homepage),
     path('hello/', hello),
     path('books/', books),
+    path('book/<int:book_id>/', bookdetails),
     path('admin/', admin.site.urls),
 ]
