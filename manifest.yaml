@@ -1,31 +1,51 @@
 destdir: /Users/ivan/Projects/Minireference/software/ateliers-prog/notebooks
 repo_url: https://github.com/mtlpy/ateliers-prog
 notebooks:
-- file_id: 14ilsxFB4AvYPVrYgH7IDRsbnAFxkc-B0
-  file_name: Agregateur-Web.ipynb
+- file_id: 1wUzCH3XIBpu3BweayXprLFDy2kqOJmU3
+  file_name: Base-1.ipynb
+- file_id: 1XKZ_0ukjTEVP8baHWVRwO3XW179YDTdl
+  file_name: numpy_solution.ipynb
+- file_id: 1caSuGsZeiNHU-B_R07LNoXq7fVLYoTeK
+  file_name: numpy.ipynb
 - file_id: 1_rrwT7Qog86VmO9eT6h8gXEZVk8MAojm
   file_name: Agregateur-Web_solution.ipynb
 - file_id: 1hfrCFTV0lQB5EcSwoIzOoKcDTEpeiXMr
   file_name: Agregateur-Web_solution_alt.ipynb
-- file_id: 1wUzCH3XIBpu3BweayXprLFDy2kqOJmU3
-  file_name: Base-1.ipynb
-- file_id: 1rk9wf1jJ4S5dTqz2s8FVcs30lVxYQ8bU
-  file_name: Exercices-1.0.ipynb
+- file_id: 14ilsxFB4AvYPVrYgH7IDRsbnAFxkc-B0
+  file_name: Agregateur-Web.ipynb
 - file_id: 1QLyZIFozZqhQeBF1HAe2-6fsVKhVHaTH
   file_name: Exercices-1.0_solution.ipynb
+- file_id: 1rk9wf1jJ4S5dTqz2s8FVcs30lVxYQ8bU
+  file_name: Exercices-1.0.ipynb
 - file_id: 1jrkR_W_FoQRKZl8GjvZuB3C8_JE_hWeN
   file_name: Syndication-Web.ipynb
 - file_id: 1vpYeC3hgnMhLN1KRaiHdULHw1qNHojTO
   file_name: Syndication-Web_solution.ipynb
-- file_id: 1R2xh_tflIp0zVU19M9yTmNpWiJ__pRbG
-  file_name: Arbres-1.0.ipynb
-- file_id: 1mZfXhrvj0qAW9imtLOeyspiao7Jl8zDq
-  file_name: Arbres_solution_advanced.ipynb
-- file_id: 1rwQXoREw-_uTFMDoIv7_q-xFYboCu7_W
-  file_name: Murales-1.0.ipynb
 - file_id: 1ml1fkVBqb1mkUQYZPvIuJxIIQBu9PFec
   file_name: Murales_solution_advanced.ipynb
-- file_id: 1caSuGsZeiNHU-B_R07LNoXq7fVLYoTeK
-  file_name: numpy.ipynb
-- file_id: 1XKZ_0ukjTEVP8baHWVRwO3XW179YDTdl
-  file_name: numpy_solution.ipynb
+- file_id: 1mZfXhrvj0qAW9imtLOeyspiao7Jl8zDq
+  file_name: Arbres_solution_advanced.ipynb
+- file_id: 1R2xh_tflIp0zVU19M9yTmNpWiJ__pRbG
+  file_name: Arbres-1.0.ipynb
+- file_id: 1rwQXoREw-_uTFMDoIv7_q-xFYboCu7_W
+  file_name: Murales-1.0.ipynb
+- file_id: 10K8-gON47ayCUHG5NhrshccR5X-kytDd
+  file_name: image classification tutorial 2.ipynb
+- file_id: 1zHzN8PcQSaknuc2QGypjHrjciRfGKtxR
+  file_name: image classification tutorial- solution.ipynb
+- file_id: 1mALNHyYEYXTivQnrOyCFOYzgeCFG9ZMp
+  file_name: machine learning.ipynb
+- file_id: 1aBb0E7zFgtp7e9v-JZ7pbkmymdgZcRmQ
+  file_name: machine learning solution.ipynb
+- file_id: 1CiT0-SrPI3USjQ4CU2fAJ2ptQLAdTeot
+  file_name: Arbres_solution.ipynb
+- file_id: 1QRNus1YCtKPAjlNT165i0NtJ3Qt2oZvr
+  file_name: Arbres.ipynb
+- file_id: 1ncLXLOEI4kfp81c6LKvDaRQ4siKK_pfJ
+  file_name: Hydro.ipynb
+- file_id: 1-mW-AAyGg3Eib9ewfMlmt9eCRvYJMVv0
+  file_name: Hydro_solution.ipynb
+- file_id: 17Vx-HGvMgLuLXoMm0_s0fIXUMG-iR2wE
+  file_name: Murales.ipynb
+- file_id: 14QfNM7SOsVtlb916Gtm5HuhHxmDeo3AE
+  file_name: Murales_solution.ipynb
